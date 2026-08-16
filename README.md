@@ -55,7 +55,7 @@ Built with: JavaScript · HTML · CSS · Java
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=JJlib57&theme=dark&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=JJib57&theme=dark&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 
