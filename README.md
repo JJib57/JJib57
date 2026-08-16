@@ -15,7 +15,7 @@
 🚀 Featured Projects
                                                 
                                                 
-                                                🤖 SwiftBot
+🤖 SwiftBot:
 
 Java Robotics Project
 
@@ -30,7 +30,7 @@ User interaction
 Java-based control logic
                                           
                                           
-                                          📚 Course Learning Website
+📚 Course Learning Website:
   
 Full-Stack Group Project
 
