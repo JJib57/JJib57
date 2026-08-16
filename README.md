@@ -52,9 +52,11 @@ Built with: JavaScript · HTML · CSS · Java
 
 <p align="left"> <a href="https://www.linkedin.com/in/jibrjibr/"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> </p>
 
-🔥 GitHub Streak
+## 🔥 GitHub Streak
 
-<p align="center"> <img src="https://streak-stats.demolab.com/?user=Jlib57&hide_border=true" alt="GitHub Streak"/> </p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Jlib57&theme=dark&hide_border=true" alt="GitHub Streak"/>
+</p>
 
 
 <details> <summary><b>⚡ More About Me</b></summary>
