@@ -6,30 +6,66 @@
 
 ## 🛠 Languages & Tools
 
-- Java
-- JavaScript
-- C#
-- HTML & CSS
-- Git & GitHub
-- Linux
+🛠️ Languages & Tools
 
-## 🚀 Projects
+<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45" alt="Java"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="45" height="45" alt="C#"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45" alt="HTML"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45" alt="CSS"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" height="45" alt="Linux"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" height="45" alt="VS Code"/> </p>
 
-### SwiftBot
-Java-based robotics project using the SwiftBot platform, involving movement, sensors and interactive functionality.
+🚀 Featured Projects
+🤖 SwiftBot
 
-### Course Learning Website
-Web application designed to help users discover and access learning courses, with features such as searching, filtering and course organisation.
+Java Robotics Project
 
-### Personal Finance Tracker
-Java application for calculating pay, tax and personal finance information.
+A robotics project developed using the SwiftBot platform, involving movement, sensors and interactive functionality.
 
-### Construction Equipment Code
-C# project involving construction equipment functionality and programming concepts.
+Features:
 
-### To-Do List
-Simple responsive to-do application.
+Robot movement and navigation
+Sensor interaction
+LEDs and buttons
+User interaction
+Java-based control logic
+📚 Course Learning Website
 
-## 📫 Connect with me
+Full-Stack Group Project
 
-[LinkedIn](https://www.linkedin.com/in/jibrjibr/)
+A learning platform designed to help users discover and access courses and reskilling opportunities.
+
+📦 Other Projects
+Project	What it does	Built with
+💰 Personal Finance Tracker	Application for calculating pay, tax and personal finance information.	Java
+🏗️ Construction Equipment Code	Construction equipment project demonstrating programming concepts and functionality.	C#
+✅ To-Do List	Simple responsive task-management web application.	HTML · CSS
+
+Features:
+
+🔎 Course search
+🎛️ Course filtering
+❤️ Favourites
+▶️ Continue learning
+♿ Accessibility features
+📱 Responsive interface
+
+Built with: JavaScript · HTML · CSS · Java
+
+
+📫 Connect With Me
+
+<p align="left"> <a href="https://www.linkedin.com/in/jibrjibr/"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> </p>
+
+🔥 GitHub Streak
+
+<p align="center"> <img src="https://streak-stats.demolab.com/?user=Jlib57&hide_border=true" alt="GitHub Streak"/> </p>
+
+
+<details> <summary><b>⚡ More About Me</b></summary>
+
+<br>
+
+🎓 Computer Science student
+🔐 Interested in Cybersecurity
+🕵️ Interested in Penetration Testing
+🐧 Interested in Linux
+⚙️ Interested in DevOps
+💻 Building projects to improve my development skills
+
+</details>
