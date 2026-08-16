@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Jibreel 👋
 
-<!--
-**JJib57/JJib57** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student @ Brunel University London
 
-Here are some ideas to get you started:
+🔐 Interested in Cybersecurity, Penetration Testing and DevOps
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Languages & Tools
+
+- Java
+- JavaScript
+- C#
+- HTML & CSS
+- Git & GitHub
+- Linux
+
+## 🚀 Projects
+
+### SwiftBot
+Java-based robotics project using the SwiftBot platform, involving movement, sensors and interactive functionality.
+
+### Course Learning Website
+Web application designed to help users discover and access learning courses, with features such as searching, filtering and course organisation.
+
+### Personal Finance Tracker
+Java application for calculating pay, tax and personal finance information.
+
+### Construction Equipment Code
+C# project involving construction equipment functionality and programming concepts.
+
+### To-Do List
+Simple responsive to-do application.
+
+## 📫 Connect with me
+
+[LinkedIn](https://www.linkedin.com/in/jibrjibr/)
