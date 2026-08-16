@@ -10,8 +10,12 @@
 
 <p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45" alt="Java"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="45" height="45" alt="C#"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45" alt="HTML"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45" alt="CSS"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" height="45" alt="Linux"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" height="45" alt="VS Code"/> </p>
 
+
+
 🚀 Featured Projects
-🤖 SwiftBot
+                                                
+                                                
+                                                🤖 SwiftBot
 
 Java Robotics Project
 
@@ -24,8 +28,10 @@ Sensor interaction
 LEDs and buttons
 User interaction
 Java-based control logic
-📚 Course Learning Website
-
+                                          
+                                          
+                                          📚 Course Learning Website
+  
 Full-Stack Group Project
 
 A learning platform designed to help users discover and access courses and reskilling opportunities.
@@ -50,13 +56,20 @@ Built with: JavaScript · HTML · CSS · Java
 
 📫 Connect With Me
 
-<p align="left"> <a href="https://www.linkedin.com/in/jibrjibr/"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/jibrjibr/"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a>
+
+<a href="mailto:JJibreel17@gmail.com"> <img src="https://img.shields.io/badge/Email-JJibreel17%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/> </a> </p>
+
+
 
 ## 🔥 GitHub Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=JJib57&theme=dark&hide_border=true" alt="GitHub Streak"/>
 </p>
+
+
+
 
 
 <details> <summary><b>⚡ More About Me</b></summary>
@@ -69,5 +82,7 @@ Built with: JavaScript · HTML · CSS · Java
 🐧 Interested in Linux
 ⚙️ Interested in DevOps
 💻 Building projects to improve my development skills
+
+
 
 </details>
